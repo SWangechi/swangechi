@@ -80,7 +80,7 @@ Implemented a Generative Adversarial Network (GAN) to generate high-resolution i
 ---
 
 ## 📊 **GitHub Stats**:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Stella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWangechi&show_icons=true&theme=radical)
 
 ---
 
