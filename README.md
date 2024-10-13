@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Stella Gituire
 
-🚀 **Data Scientist | NLP Expert | AI Enthusiast | Deep Learning Specialist**
+**Data Scientist | NLP Expert | AI Enthusiast | Deep Learning Specialist**
 
 I'm a passionate Data Scientist with a specialization in Natural Language Processing (NLP), large language models (LLMs), Computer Vision, and Deep Learning. My goal is to harness the power of AI to solve complex real-world problems, ranging from language understanding to visual recognition systems.
 
@@ -80,7 +80,7 @@ Implemented a Generative Adversarial Network (GAN) to generate high-resolution i
 ---
 
 ## 📊 **GitHub Stats**:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Swangechi GitHub Stats](https://github-readme-stats.vercel.app/api?Swangechi=Swangechi&show_icons=true&theme=radical)
 
 ---
 
