@@ -1,6 +1,8 @@
 # 💻 Stella Gituire - Data Scientist | AI/ML Engineer | Software Developer
 
-🚀 Welcome to my GitHub profile! I'm Stella Gituire, a passionate and innovative Data Scientist and AI/ML Engineer with a strong foundation in machine learning, deep learning, and software development. I thrive on building impactful solutions that bridge the gap between complex AI technologies and user-friendly applications.
+🚀 Welcome to my GitHub profile! 
+I'm Stella Gituire, a passionate and innovative Data Scientist and AI/ML Engineer with a strong foundation in machine learning, deep learning, and software development. 
+I thrive on building impactful solutions that bridge the gap between complex AI technologies and user-friendly applications.
 
 ## 🌟 About Me
 - 🔍 Proficient in building scalable machine learning models and deploying AI solutions.
