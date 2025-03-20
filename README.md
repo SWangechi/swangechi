@@ -41,8 +41,8 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/stella-gituire-60b925b3/])
-- [Personal Portfolio](https://stellagituire.dev)
-- 📧 [Email]([sgituire@gmail.com])
+- Portfolio: [Portfolio](https://swangechi.github.io)
+- Email: [Email]([sgituire@gmail.com])
 
 ### 🤝 Let’s Collaborate!
 I’m always open to collaborating on exciting projects and sharing insights on AI and data science. Feel free to reach out!
