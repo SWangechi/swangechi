@@ -40,9 +40,9 @@
 - Leveraged sentiment analysis techniques to enhance the user experience.
 
 ## 🌐 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/stella-gituire-60b925b3/])
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stella-gituire-60b925b3/)
 - Portfolio: [Portfolio](https://swangechi.github.io)
-- Email: [Email]([sgituire@gmail.com])
+- Email: [Email](sgituire@gmail.com)
 
 ### 🤝 Let’s Collaborate!
 I’m always open to collaborating on exciting projects and sharing insights on AI and data science. Feel free to reach out!
