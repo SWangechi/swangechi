@@ -1,96 +1,49 @@
-# 👋 Hello, I'm Stella Gituire
+# 💻 Stella Gituire - Data Scientist | AI/ML Engineer | Software Developer
 
-**Data Scientist | NLP Expert | AI Enthusiast | Deep Learning Specialist**
+🚀 Welcome to my GitHub profile! I'm Stella Gituire, a passionate and innovative Data Scientist and AI/ML Engineer with a strong foundation in machine learning, deep learning, and software development. I thrive on building impactful solutions that bridge the gap between complex AI technologies and user-friendly applications.
 
-I'm a passionate Data Scientist with a specialization in Natural Language Processing (NLP), large language models (LLMs), Computer Vision, and Deep Learning. My goal is to harness the power of AI to solve complex real-world problems, ranging from language understanding to visual recognition systems.
+## 🌟 About Me
+- 🔍 Proficient in building scalable machine learning models and deploying AI solutions.
+- 🤖 Experienced in real-time sentiment analysis, handwritten digit recognition systems, and AI-driven mental health monitoring.
+- 💡 Strong background in data analysis, model development, deployment, and optimization.
+- 🌐 Versatile developer with expertise in Python, HTML, CSS, JavaScript, and SQL.
+- 🛠️ Skilled with frameworks and libraries like TensorFlow, PyTorch, Scikit-learn, Hugging Face, OpenCV, and more.
+- 📊 Data visualization enthusiast using Matplotlib, Seaborn, Plotly, and D3.js.
+- ☁️ Experienced with cloud platforms (AWS, Google Cloud, Azure) and MLOps tools like Docker, Kubernetes, and FastAPI.
+- 🎨 Frontend and backend development skills with Flask, Streamlit, and DevOps tools.
+- 🌱 Lifelong learner passionate about AI ethics, data privacy, and social impact.
 
-💡 **What I do**:  
-I develop intelligent systems combining state-of-the-art techniques in NLP, deep learning, and computer vision to create models that can understand, generate, and analyze text and visual data. My focus is on building scalable AI solutions that leverage the latest advances in machine learning.
+## 📝 Projects
+### AI-veFallen
+- An AI-powered patient monitoring system for fall detection using computer vision.
+- Uses state-of-the-art deep learning models for accurate and real-time monitoring.
 
----
+### Feel_Fusion
+- An AI-based mental health monitoring system.
+- Integrates NLP and wearable data for early detection of mental health signals.
 
-## 🌟 **Core Specializations**:
+### SpeechEmotionRecognition (VibeCheckAI)
+- An AI-powered speech emotion recognition application.
+- Uses deep learning models to classify emotions from audio signals.
 
-### Natural Language Processing (NLP) & Large Language Models (LLMs)
-- Developing and fine-tuning models such as **GPT, BERT, RoBERTa, T5**, and **Whisper** for text generation, sentiment analysis, summarization, and conversational AI.
-- Expertise in **Hugging Face Transformers**, **spaCy**, **NLTK**, **TextBlob**, and **OpenAI APIs**.
-- Building end-to-end **NLP pipelines** for text preprocessing, tokenization, and entity recognition.
+### Real-Time Sentiment Analysis of Tweets
+- Built a sentiment analysis tool for social media monitoring.
+- Integrated Flask API for real-time predictions and visualization.
+- Applied NLP models like BERT and Naive Bayes for sentiment classification.
 
-### Computer Vision
-- Implementing and fine-tuning deep learning models like **ResNet**, **YOLOv5**, **EfficientNet**, and **UNet** for image classification, object detection, and semantic segmentation.
-- Proficient in **OpenCV**, **TensorFlow**, **PyTorch**, and **Keras** for building image recognition systems and face detection solutions.
-  
-### Deep Learning & Model Architectures
-- Designing neural networks for complex tasks including **multi-modal data integration**, **time-series forecasting**, and **reinforcement learning**.
-- Skilled in advanced techniques like **transfer learning**, **few-shot learning**, and **attention mechanisms**.
-- Experience with **GANs** (Generative Adversarial Networks) for synthetic data generation.
+### Handwritten Digit Recognition System
+- Implemented CNN and MLP models to accurately recognize handwritten digits.
+- Developed an interactive web app using Flask and JavaScript for user input and predictions.
 
----
+### Movie Review Sentiment Analysis App
+- Built a mobile app using Flutter to classify movie reviews as positive, negative, or neutral.
+- Leveraged sentiment analysis techniques to enhance the user experience.
 
-## 📚 **Skills & Tools**:
-- **Programming**: Python, R, SQL, JavaScript
-- **Libraries & Frameworks**: TensorFlow, PyTorch, Hugging Face, Keras, OpenCV, spaCy, NLTK
-- **Data Science & ML**: Scikit-learn, Pandas, NumPy, XGBoost, LightGBM
-- **Cloud Platforms**: AWS, Google Cloud, Azure (for ML model deployment)
-- **Visualization**: Matplotlib, Seaborn, Plotly, D3.js
-- **DevOps & MLOps**: Docker, Kubernetes, Flask, FastAPI, Streamlit
-- **Databases**: MySQL, PostgreSQL, MongoDB, BigQuery
+## 🌐 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/stella-gituire-60b925b3/])
+- [Personal Portfolio](https://stellagituire.dev)
+- 📧 [Email]([sgituire@gmail.com])
 
----
+### 🤝 Let’s Collaborate!
+I’m always open to collaborating on exciting projects and sharing insights on AI and data science. Feel free to reach out!
 
-## 🌍 **Key Projects**:
-
-### 🤖 **NLP - Language Modeling with GPT-3 for Mental Health Support**
-[Repository Link](https://github.com/yourusername/gpt3-mental-health)  
-Developed a mental health chatbot that utilizes GPT-3 to provide mental health advice and support. The project integrates GPT-3 with custom NLP pipelines for sentiment analysis and user feedback mechanisms.
-
-**Tech Stack**: GPT-3, Hugging Face Transformers, Flask, AWS Lambda
-
----
-
-### 🧠 **BERT-Based Sentiment Analysis for Social Media Posts**
-[Repository Link](https://github.com/yourusername/bert-sentiment-analysis)  
-Fine-tuned BERT on a Twitter dataset for sentiment classification. Achieved state-of-the-art results in classifying mental health signals from text data.
-
-**Tech Stack**: Python, Hugging Face, BERT, PyTorch, Flask, Streamlit
-
----
-
-### 🖼️ **Computer Vision - Object Detection with YOLOv5**
-[Repository Link](https://github.com/yourusername/yolov5-object-detection)  
-Built a real-time object detection system using YOLOv5 to identify and track objects in video streams.
-
-**Tech Stack**: Python, YOLOv5, OpenCV, TensorFlow, Flask
-
----
-
-### 🌌 **Deep Learning - GANs for Image Generation**
-[Repository Link](https://github.com/yourusername/gan-image-generation)  
-Implemented a Generative Adversarial Network (GAN) to generate high-resolution images of landscapes.
-
-**Tech Stack**: Python, TensorFlow, Keras, PyTorch
-
----
-
-## 🌐 **Open-Source Contributions**:
-- [Hugging Face Transformers](https://github.com/huggingface/transformers): Contributed to improving model training scripts and documentation.
-- [OpenCV](https://github.com/opencv/opencv): Developed new image processing utilities for object detection algorithms.
-- [TensorFlow](https://github.com/tensorflow/tensorflow): Bug fixes and performance improvements.
-
----
-
-## 📊 **GitHub Stats**:
-![Stella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWangechi&show_icons=true&theme=radical)
-
----
-
-## 📫 **Get in Touch**:
-- **GitHub**: [https://github.com/SWangechi](https://github.com/SWangechi)
-- **LinkedIn**: [linkedin.com/in/stella-gituire-60b925b3](https://www.linkedin.com/in/stella-gituire-60b925b3)
-- **Email**: [sgituire@gmail.com](mailto:sgituire@gmail.com)
-
----
-
-## 🎯 **What I'm Learning Next**:
-- Exploring **multimodal AI** combining text, image, and video inputs.
-- Advanced **Reinforcement Learning** for robotics and autonomous systems.
